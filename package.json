@@ -1,0 +1,23 @@
+{
+  "name": "node.js_socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxjg5019/Node.js_Socket.git"
+  },
+  "author": "maxjg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxjg5019/Node.js_Socket/issues"
+  },
+  "homepage": "https://github.com/maxjg5019/Node.js_Socket#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
